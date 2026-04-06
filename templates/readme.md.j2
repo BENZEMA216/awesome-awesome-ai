@@ -24,10 +24,10 @@
 
 ## Trending This Week
 
-| Repo | Stars | 7d Growth | Tags |
-|------|-------|-----------|------|
+| Repo | Author | Stars | 7d Growth | Tags |
+|------|--------|-------|-----------|------|
 {% for repo in trending -%}
-| [{{ repo.name|awesome }}]({{ repo.url }}) | {{ "{:,}".format(repo.stars) }} | +{{ repo.stars_growth_7d }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
+| [{{ repo.name|awesome }}]({{ repo.url }}) | [{{ repo.repo.split('/')[0] }}](https://github.com/{{ repo.repo.split('/')[0] }}) | {{ "{:,}".format(repo.stars) }} | +{{ repo.stars_growth_7d }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
 {% endfor %}
 
 ---
@@ -37,10 +37,10 @@
 {% if cat_repos -%}
 ## {{ cat_name }}
 
-| Repo | Description | Stars | Tags |
-|------|-------------|-------|------|
+| Repo | Author | Description | Stars | Tags |
+|------|--------|-------------|-------|------|
 {% for repo in cat_repos -%}
-| [{{ repo.name|awesome }}]({{ repo.url }}) | {{ repo.description[:80] }}{% if repo.description|length > 80 %}...{% endif %} | {{ "{:,}".format(repo.stars) }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
+| [{{ repo.name|awesome }}]({{ repo.url }}) | [{{ repo.repo.split('/')[0] }}](https://github.com/{{ repo.repo.split('/')[0] }}) | {{ repo.description[:80] }}{% if repo.description|length > 80 %}...{% endif %} | {{ "{:,}".format(repo.stars) }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
 {% endfor %}
 
 {% endif -%}
@@ -84,10 +84,10 @@ CC0 1.0 Universal
 
 ## 本周趋势
 
-| 项目 | Star 数 | 7日增长 | 标签 |
-|------|---------|---------|------|
+| 项目 | 作者 | Star 数 | 7日增长 | 标签 |
+|------|------|---------|---------|------|
 {% for repo in trending -%}
-| [{{ repo.name|awesome }}]({{ repo.url }}) | {{ "{:,}".format(repo.stars) }} | +{{ repo.stars_growth_7d }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
+| [{{ repo.name|awesome }}]({{ repo.url }}) | [{{ repo.repo.split('/')[0] }}](https://github.com/{{ repo.repo.split('/')[0] }}) | {{ "{:,}".format(repo.stars) }} | +{{ repo.stars_growth_7d }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
 {% endfor %}
 
 ---
@@ -97,10 +97,10 @@ CC0 1.0 Universal
 {% if cat_repos -%}
 ## {{ cat_name }}
 
-| 项目 | 简介 | Star 数 | 标签 |
-|------|------|---------|------|
+| 项目 | 作者 | 简介 | Star 数 | 标签 |
+|------|------|------|---------|------|
 {% for repo in cat_repos -%}
-| [{{ repo.name|awesome }}]({{ repo.url }}) | {{ repo.description[:80] }}{% if repo.description|length > 80 %}...{% endif %} | {{ "{:,}".format(repo.stars) }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
+| [{{ repo.name|awesome }}]({{ repo.url }}) | [{{ repo.repo.split('/')[0] }}](https://github.com/{{ repo.repo.split('/')[0] }}) | {{ repo.description[:80] }}{% if repo.description|length > 80 %}...{% endif %} | {{ "{:,}".format(repo.stars) }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
 {% endfor %}
 
 {% endif -%}
