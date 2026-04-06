@@ -1,0 +1,49 @@
+name: Regenerate README on PR Merge
+
+on:
+  pull_request:
+    types: [closed]
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Approve merged pending repos
+        run: |
+          python -c "
+          from scripts.data_io import load_all, save_category
+          from scripts.config import DATA_DIR
+          for cat, repos in load_all(DATA_DIR).items():
+              changed = False
+              for r in repos:
+                  if r.get('status') == 'pending':
+                      r['status'] = 'approved'
+                      changed = True
+              if changed:
+                  save_category(DATA_DIR, cat, repos)
+          "
+
+      - name: Regenerate README
+        run: python -m scripts.generate
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ README.md
+          git diff --staged --quiet || git commit -m "chore: approve merged repos and regenerate README"
+          git push
