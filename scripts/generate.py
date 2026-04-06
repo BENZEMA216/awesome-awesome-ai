@@ -35,9 +35,16 @@ def build_template_context(data_dir: Path, github_repo: str) -> dict:
     }
 
 
+def _highlight_awesome(name: str) -> str:
+    """Bold the 'Awesome' prefix in repo names."""
+    import re
+    return re.sub(r"(?i)\bawesome\b", r"**Awesome**", name, count=1)
+
+
 def generate_readme(data_dir: Path, templates_dir: Path, output_path: Path, github_repo: str) -> None:
     """Generate README.md from data and template."""
     env = Environment(loader=FileSystemLoader(str(templates_dir)))
+    env.filters["awesome"] = _highlight_awesome
     template = env.get_template("readme.md.j2")
     ctx = build_template_context(data_dir, github_repo)
     content = template.render(**ctx)

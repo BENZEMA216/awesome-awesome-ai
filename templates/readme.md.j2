@@ -27,7 +27,7 @@
 | Repo | Stars | 7d Growth | Tags |
 |------|-------|-----------|------|
 {% for repo in trending -%}
-| [{{ repo.name }}]({{ repo.url }}) | {{ "{:,}".format(repo.stars) }} | +{{ repo.stars_growth_7d }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
+| [{{ repo.name|awesome }}]({{ repo.url }}) | {{ "{:,}".format(repo.stars) }} | +{{ repo.stars_growth_7d }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
 {% endfor %}
 
 ---
@@ -40,7 +40,7 @@
 | Repo | Description | Stars | Tags |
 |------|-------------|-------|------|
 {% for repo in cat_repos -%}
-| [{{ repo.name }}]({{ repo.url }}) | {{ repo.description[:80] }}{% if repo.description|length > 80 %}...{% endif %} | {{ "{:,}".format(repo.stars) }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
+| [{{ repo.name|awesome }}]({{ repo.url }}) | {{ repo.description[:80] }}{% if repo.description|length > 80 %}...{% endif %} | {{ "{:,}".format(repo.stars) }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
 {% endfor %}
 
 {% endif -%}
@@ -87,7 +87,7 @@ CC0 1.0 Universal
 | 项目 | Star 数 | 7日增长 | 标签 |
 |------|---------|---------|------|
 {% for repo in trending -%}
-| [{{ repo.name }}]({{ repo.url }}) | {{ "{:,}".format(repo.stars) }} | +{{ repo.stars_growth_7d }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
+| [{{ repo.name|awesome }}]({{ repo.url }}) | {{ "{:,}".format(repo.stars) }} | +{{ repo.stars_growth_7d }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
 {% endfor %}
 
 ---
@@ -100,7 +100,7 @@ CC0 1.0 Universal
 | 项目 | 简介 | Star 数 | 标签 |
 |------|------|---------|------|
 {% for repo in cat_repos -%}
-| [{{ repo.name }}]({{ repo.url }}) | {{ repo.description[:80] }}{% if repo.description|length > 80 %}...{% endif %} | {{ "{:,}".format(repo.stars) }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
+| [{{ repo.name|awesome }}]({{ repo.url }}) | {{ repo.description[:80] }}{% if repo.description|length > 80 %}...{% endif %} | {{ "{:,}".format(repo.stars) }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
 {% endfor %}
 
 {% endif -%}
