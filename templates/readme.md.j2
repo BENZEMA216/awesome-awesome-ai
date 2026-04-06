@@ -22,6 +22,7 @@
 
 ---
 
+{% if trending_mode == "trending" -%}
 ## Trending This Week
 
 | Repo | Author | Stars | 7d Growth | Tags |
@@ -29,6 +30,15 @@
 {% for repo in trending -%}
 | [{{ repo.name|awesome }}]({{ repo.url }}) | [{{ repo.repo.split('/')[0] }}](https://github.com/{{ repo.repo.split('/')[0] }}) | {{ "{:,}".format(repo.stars) }} | +{{ repo.stars_growth_7d }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
 {% endfor %}
+{% else -%}
+## Most Popular
+
+| Repo | Author | Stars | Tags |
+|------|--------|-------|------|
+{% for repo in trending -%}
+| [{{ repo.name|awesome }}]({{ repo.url }}) | [{{ repo.repo.split('/')[0] }}](https://github.com/{{ repo.repo.split('/')[0] }}) | {{ "{:,}".format(repo.stars) }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
+{% endfor %}
+{% endif %}
 
 ---
 
@@ -82,6 +92,7 @@ CC0 1.0 Universal
 
 ---
 
+{% if trending_mode == "trending" -%}
 ## 本周趋势
 
 | 项目 | 作者 | Star 数 | 7日增长 | 标签 |
@@ -89,6 +100,15 @@ CC0 1.0 Universal
 {% for repo in trending -%}
 | [{{ repo.name|awesome }}]({{ repo.url }}) | [{{ repo.repo.split('/')[0] }}](https://github.com/{{ repo.repo.split('/')[0] }}) | {{ "{:,}".format(repo.stars) }} | +{{ repo.stars_growth_7d }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
 {% endfor %}
+{% else -%}
+## 最受欢迎
+
+| 项目 | 作者 | Star 数 | 标签 |
+|------|------|---------|------|
+{% for repo in trending -%}
+| [{{ repo.name|awesome }}]({{ repo.url }}) | [{{ repo.repo.split('/')[0] }}](https://github.com/{{ repo.repo.split('/')[0] }}) | {{ "{:,}".format(repo.stars) }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
+{% endfor %}
+{% endif %}
 
 ---
 

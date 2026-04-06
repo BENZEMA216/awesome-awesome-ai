@@ -23,7 +23,14 @@ def build_template_context(data_dir: Path, github_repo: str) -> dict:
 
     for repo in all_approved:
         repo.setdefault("stars_growth_7d", 0)
-    trending = sorted(all_approved, key=lambda r: r.get("stars_growth_7d", 0), reverse=True)[:10]
+
+    has_growth_data = any(r["stars_growth_7d"] > 0 for r in all_approved)
+    if has_growth_data:
+        trending = sorted(all_approved, key=lambda r: r["stars_growth_7d"], reverse=True)[:10]
+        trending_mode = "trending"
+    else:
+        trending = sorted(all_approved, key=lambda r: r.get("stars", 0), reverse=True)[:10]
+        trending_mode = "popular"
 
     return {
         "github_repo": github_repo,
@@ -32,6 +39,7 @@ def build_template_context(data_dir: Path, github_repo: str) -> dict:
         "categories_zh": CATEGORIES_ZH,
         "repos_by_category": repos_by_category,
         "trending": trending,
+        "trending_mode": trending_mode,
     }
 
 

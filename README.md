@@ -28,20 +28,21 @@
 
 ---
 
-## Trending This Week
+## Most Popular
 
-| Repo | Author | Stars | 7d Growth | Tags |
-|------|--------|-------|-----------|------|
-| [**Awesome** AI Agents](https://github.com/e2b-dev/awesome-ai-agents) | [e2b-dev](https://github.com/e2b-dev) | 12,000 | +0 | `ai-agents` `autonomous` `llm` |
-| [**Awesome** LangChain](https://github.com/kyrolabs/awesome-langchain) | [kyrolabs](https://github.com/kyrolabs) | 8,000 | +0 | `langchain` `llm` `agents` |
-| [**Awesome** LLM Agents](https://github.com/kaushikb11/awesome-llm-agents) | [kaushikb11](https://github.com/kaushikb11) | 3,000 | +0 | `llm` `agents` `ai` |
-| [**Awesome** AI Agents](https://github.com/slavakurilyak/awesome-ai-agents) | [slavakurilyak](https://github.com/slavakurilyak) | 2,500 | +0 | `ai-agents` `autonomous` `llm` |
-| [**Awesome** Code AI](https://github.com/sourcegraph/awesome-code-ai) | [sourcegraph](https://github.com/sourcegraph) | 4,000 | +0 | `coding` `ai` `developer-tools` |
-| [**Awesome** Public Datasets](https://github.com/awesomedata/awesome-public-datasets) | [awesomedata](https://github.com/awesomedata) | 65,000 | +0 | `datasets` `open-data` `public` |
-| [**Awesome** MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | [punkpeye](https://github.com/punkpeye) | 40,000 | +0 | `mcp` `model-context-protocol` `servers` |
-| [**Awesome** MCP Servers](https://github.com/wong2/awesome-mcp-servers) | [wong2](https://github.com/wong2) | 2,000 | +0 | `mcp` `model-context-protocol` `servers` |
-| [**Awesome** MCP Servers](https://github.com/appcypher/awesome-mcp-servers) | [appcypher](https://github.com/appcypher) | 1,500 | +0 | `mcp` `model-context-protocol` `servers` |
-| [**Awesome** Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models) | [heejkoo](https://github.com/heejkoo) | 12,000 | +0 | `diffusion-models` `generative-ai` `image-generation` |
+| Repo | Author | Stars | Tags |
+|------|--------|-------|------|
+| [**Awesome** ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | [f](https://github.com/f) | 120,000 | `chatgpt` `prompts` `llm` |
+| [**Awesome** Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | [josephmisiti](https://github.com/josephmisiti) | 66,000 | `machine-learning` `frameworks` `libraries` |
+| [**Awesome** Public Datasets](https://github.com/awesomedata/awesome-public-datasets) | [awesomedata](https://github.com/awesomedata) | 65,000 | `datasets` `open-data` `public` |
+| [**Awesome** MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | [punkpeye](https://github.com/punkpeye) | 40,000 | `mcp` `model-context-protocol` `servers` |
+| [**Awesome** LLM](https://github.com/Hannibal046/Awesome-LLM) | [Hannibal046](https://github.com/Hannibal046) | 20,000 | `llm` `large-language-models` `resources` |
+| [**Awesome** AI Agents](https://github.com/e2b-dev/awesome-ai-agents) | [e2b-dev](https://github.com/e2b-dev) | 12,000 | `ai-agents` `autonomous` `llm` |
+| [**Awesome** Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models) | [heejkoo](https://github.com/heejkoo) | 12,000 | `diffusion-models` `generative-ai` `image-generation` |
+| [**Awesome** Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | [owainlewis](https://github.com/owainlewis) | 10,000 | `ai` `courses` `books` `resources` |
+| [**Awesome** LangChain](https://github.com/kyrolabs/awesome-langchain) | [kyrolabs](https://github.com/kyrolabs) | 8,000 | `langchain` `llm` `agents` |
+| [**Awesome** Generative AI](https://github.com/filipecalegario/awesome-generative-ai) | [filipecalegario](https://github.com/filipecalegario) | 8,000 | `generative-ai` `llm` `image-generation` |
+
 
 
 ---
@@ -174,20 +175,21 @@ CC0 1.0 Universal
 
 ---
 
-## 本周趋势
+## 最受欢迎
 
-| 项目 | 作者 | Star 数 | 7日增长 | 标签 |
-|------|------|---------|---------|------|
-| [**Awesome** AI Agents](https://github.com/e2b-dev/awesome-ai-agents) | [e2b-dev](https://github.com/e2b-dev) | 12,000 | +0 | `ai-agents` `autonomous` `llm` |
-| [**Awesome** LangChain](https://github.com/kyrolabs/awesome-langchain) | [kyrolabs](https://github.com/kyrolabs) | 8,000 | +0 | `langchain` `llm` `agents` |
-| [**Awesome** LLM Agents](https://github.com/kaushikb11/awesome-llm-agents) | [kaushikb11](https://github.com/kaushikb11) | 3,000 | +0 | `llm` `agents` `ai` |
-| [**Awesome** AI Agents](https://github.com/slavakurilyak/awesome-ai-agents) | [slavakurilyak](https://github.com/slavakurilyak) | 2,500 | +0 | `ai-agents` `autonomous` `llm` |
-| [**Awesome** Code AI](https://github.com/sourcegraph/awesome-code-ai) | [sourcegraph](https://github.com/sourcegraph) | 4,000 | +0 | `coding` `ai` `developer-tools` |
-| [**Awesome** Public Datasets](https://github.com/awesomedata/awesome-public-datasets) | [awesomedata](https://github.com/awesomedata) | 65,000 | +0 | `datasets` `open-data` `public` |
-| [**Awesome** MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | [punkpeye](https://github.com/punkpeye) | 40,000 | +0 | `mcp` `model-context-protocol` `servers` |
-| [**Awesome** MCP Servers](https://github.com/wong2/awesome-mcp-servers) | [wong2](https://github.com/wong2) | 2,000 | +0 | `mcp` `model-context-protocol` `servers` |
-| [**Awesome** MCP Servers](https://github.com/appcypher/awesome-mcp-servers) | [appcypher](https://github.com/appcypher) | 1,500 | +0 | `mcp` `model-context-protocol` `servers` |
-| [**Awesome** Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models) | [heejkoo](https://github.com/heejkoo) | 12,000 | +0 | `diffusion-models` `generative-ai` `image-generation` |
+| 项目 | 作者 | Star 数 | 标签 |
+|------|------|---------|------|
+| [**Awesome** ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | [f](https://github.com/f) | 120,000 | `chatgpt` `prompts` `llm` |
+| [**Awesome** Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | [josephmisiti](https://github.com/josephmisiti) | 66,000 | `machine-learning` `frameworks` `libraries` |
+| [**Awesome** Public Datasets](https://github.com/awesomedata/awesome-public-datasets) | [awesomedata](https://github.com/awesomedata) | 65,000 | `datasets` `open-data` `public` |
+| [**Awesome** MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | [punkpeye](https://github.com/punkpeye) | 40,000 | `mcp` `model-context-protocol` `servers` |
+| [**Awesome** LLM](https://github.com/Hannibal046/Awesome-LLM) | [Hannibal046](https://github.com/Hannibal046) | 20,000 | `llm` `large-language-models` `resources` |
+| [**Awesome** AI Agents](https://github.com/e2b-dev/awesome-ai-agents) | [e2b-dev](https://github.com/e2b-dev) | 12,000 | `ai-agents` `autonomous` `llm` |
+| [**Awesome** Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models) | [heejkoo](https://github.com/heejkoo) | 12,000 | `diffusion-models` `generative-ai` `image-generation` |
+| [**Awesome** Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | [owainlewis](https://github.com/owainlewis) | 10,000 | `ai` `courses` `books` `resources` |
+| [**Awesome** LangChain](https://github.com/kyrolabs/awesome-langchain) | [kyrolabs](https://github.com/kyrolabs) | 8,000 | `langchain` `llm` `agents` |
+| [**Awesome** Generative AI](https://github.com/filipecalegario/awesome-generative-ai) | [filipecalegario](https://github.com/filipecalegario) | 8,000 | `generative-ai` `llm` `image-generation` |
+
 
 
 ---
