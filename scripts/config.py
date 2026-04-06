@@ -19,6 +19,20 @@ CATEGORIES = {
     "other": "Other",
 }
 
+CATEGORIES_ZH = {
+    "prompts": "Prompt 集合",
+    "cli-tools": "CLI 工具",
+    "mcp-servers": "MCP 服务器",
+    "agents": "Agent 框架与列表",
+    "models": "模型列表与对比",
+    "datasets": "数据集合集",
+    "papers": "论文列表",
+    "coding": "AI 编程工具",
+    "media": "图片 / 音频 / 视频生成",
+    "productivity": "效率工具",
+    "other": "其他",
+}
+
 MIN_STARS = 100
 MAX_INACTIVE_DAYS = 180
 MIN_README_LENGTH = 1000

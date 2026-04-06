@@ -4,7 +4,7 @@ from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader
 
-from scripts.config import CATEGORIES
+from scripts.config import CATEGORIES, CATEGORIES_ZH
 from scripts.data_io import load_all
 
 
@@ -29,6 +29,7 @@ def build_template_context(data_dir: Path, github_repo: str) -> dict:
         "github_repo": github_repo,
         "last_updated": date.today().isoformat(),
         "categories": CATEGORIES,
+        "categories_zh": CATEGORIES_ZH,
         "repos_by_category": repos_by_category,
         "trending": trending,
     }

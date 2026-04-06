@@ -1,5 +1,11 @@
 # Awesome Awesome AI
 
+[English](#english) | [中文](#中文)
+
+---
+
+<a id="english"></a>
+
 > A meta-index of AI-related awesome lists and resource aggregation repositories. Auto-updated daily.
 
 [![Daily Update](https://github.com/{{ github_repo }}/actions/workflows/daily-update.yml/badge.svg)](https://github.com/{{ github_repo }}/actions/workflows/daily-update.yml)
@@ -8,10 +14,10 @@
 
 ## Contents
 
-{% for cat_key, cat_name in categories.items() %}
-{% if repos_by_category.get(cat_key) %}
+{% for cat_key, cat_name in categories.items() -%}
+{% if repos_by_category.get(cat_key) -%}
 - [{{ cat_name }}](#{{ cat_key }})
-{% endif %}
+{% endif -%}
 {% endfor %}
 
 ---
@@ -20,24 +26,24 @@
 
 | Repo | Stars | 7d Growth | Tags |
 |------|-------|-----------|------|
-{% for repo in trending %}
+{% for repo in trending -%}
 | [{{ repo.name }}]({{ repo.url }}) | {{ "{:,}".format(repo.stars) }} | +{{ repo.stars_growth_7d }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
 {% endfor %}
 
 ---
 
-{% for cat_key, cat_name in categories.items() %}
-{% set cat_repos = repos_by_category.get(cat_key, []) %}
-{% if cat_repos %}
+{% for cat_key, cat_name in categories.items() -%}
+{% set cat_repos = repos_by_category.get(cat_key, []) -%}
+{% if cat_repos -%}
 ## {{ cat_name }}
 
 | Repo | Description | Stars | Tags |
 |------|-------------|-------|------|
-{% for repo in cat_repos %}
+{% for repo in cat_repos -%}
 | [{{ repo.name }}]({{ repo.url }}) | {{ repo.description[:80] }}{% if repo.description|length > 80 %}...{% endif %} | {{ "{:,}".format(repo.stars) }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
 {% endfor %}
 
-{% endif %}
+{% endif -%}
 {% endfor %}
 
 ---
@@ -53,3 +59,63 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to suggest new repos.
 ### License
 
 CC0 1.0 Universal
+
+---
+
+<a id="中文"></a>
+
+# Awesome Awesome AI 中文版
+
+> AI 相关 Awesome List 的元索引，每日自动更新。
+
+[![每日更新](https://github.com/{{ github_repo }}/actions/workflows/daily-update.yml/badge.svg)](https://github.com/{{ github_repo }}/actions/workflows/daily-update.yml)
+
+*最近更新: {{ last_updated }}*
+
+## 目录
+
+{% for cat_key, cat_name in categories_zh.items() -%}
+{% if repos_by_category.get(cat_key) -%}
+- [{{ cat_name }}](#{{ cat_key }}-1)
+{% endif -%}
+{% endfor %}
+
+---
+
+## 本周趋势
+
+| 项目 | Star 数 | 7日增长 | 标签 |
+|------|---------|---------|------|
+{% for repo in trending -%}
+| [{{ repo.name }}]({{ repo.url }}) | {{ "{:,}".format(repo.stars) }} | +{{ repo.stars_growth_7d }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
+{% endfor %}
+
+---
+
+{% for cat_key, cat_name in categories_zh.items() -%}
+{% set cat_repos = repos_by_category.get(cat_key, []) -%}
+{% if cat_repos -%}
+## {{ cat_name }}
+
+| 项目 | 简介 | Star 数 | 标签 |
+|------|------|---------|------|
+{% for repo in cat_repos -%}
+| [{{ repo.name }}]({{ repo.url }}) | {{ repo.description[:80] }}{% if repo.description|length > 80 %}...{% endif %} | {{ "{:,}".format(repo.stars) }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
+{% endfor %}
+
+{% endif -%}
+{% endfor %}
+
+---
+
+## 关于
+
+本索引由 GitHub Actions 每日自动生成和更新。数据以 YAML 格式存储在 [`data/`](data/) 目录下。
+
+### 贡献
+
+参见 [CONTRIBUTING.md](CONTRIBUTING.md) 了解如何推荐新仓库。
+
+### 许可证
+
+CC0 1.0 通用
