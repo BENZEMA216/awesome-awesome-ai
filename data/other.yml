@@ -1,3 +1,30 @@
-# Other
-# Auto-managed by awesome-awesome-ai
-[]
+- repo: sindresorhus/awesome
+  name: Awesome
+  description: The original awesome list — a curated list of awesome lists.
+  url: https://github.com/sindresorhus/awesome
+  category: other
+  tags:
+  - curated-list
+  stars: 340000
+  forks: 0
+  last_updated: '2026-04-06'
+  last_commit: '2026-04-01'
+  added_date: '2026-04-06'
+  status: approved
+  stars_growth_7d: 0
+- repo: josephmisiti/awesome-machine-learning
+  name: Awesome Machine Learning
+  description: A curated list of awesome machine learning frameworks, libraries, and
+    software.
+  url: https://github.com/josephmisiti/awesome-machine-learning
+  category: other
+  tags:
+  - machine-learning
+  - deep-learning
+  stars: 66000
+  forks: 0
+  last_updated: '2026-04-06'
+  last_commit: '2026-04-01'
+  added_date: '2026-04-06'
+  status: approved
+  stars_growth_7d: 0

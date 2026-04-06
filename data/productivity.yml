@@ -1,3 +1,33 @@
-# Productivity Tools
-# Auto-managed by awesome-awesome-ai
-[]
+- repo: ai-collection/ai-collection
+  name: AI Collection
+  description: A collection of awesome generative AI applications for productivity
+    and creativity.
+  url: https://github.com/ai-collection/ai-collection
+  category: productivity
+  tags:
+  - productivity
+  - tools
+  - chatgpt
+  stars: 8000
+  forks: 0
+  last_updated: '2026-04-06'
+  last_commit: '2026-04-01'
+  added_date: '2026-04-06'
+  status: approved
+  stars_growth_7d: 0
+- repo: ikaijua/Awesome-AITools
+  name: Awesome AI Tools
+  description: Collection of AI-related utilities and tools for daily productivity.
+  url: https://github.com/ikaijua/Awesome-AITools
+  category: productivity
+  tags:
+  - productivity
+  - tools
+  - ai
+  stars: 5000
+  forks: 0
+  last_updated: '2026-04-06'
+  last_commit: '2026-04-01'
+  added_date: '2026-04-06'
+  status: approved
+  stars_growth_7d: 0

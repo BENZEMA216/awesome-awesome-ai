@@ -1,3 +1,49 @@
-# AI Coding Tools
-# Auto-managed by awesome-awesome-ai
-[]
+- repo: continuedev/continue
+  name: Continue
+  description: Open-source AI code assistant for VS Code and JetBrains IDEs.
+  url: https://github.com/continuedev/continue
+  category: coding
+  tags:
+  - coding
+  - copilot
+  - llm
+  stars: 25000
+  forks: 0
+  last_updated: '2026-04-06'
+  last_commit: '2026-04-01'
+  added_date: '2026-04-06'
+  status: approved
+  stars_growth_7d: 0
+- repo: cursor-ai/cursor
+  name: Cursor
+  description: The AI code editor built for pair-programming with LLMs.
+  url: https://github.com/cursor-ai/cursor
+  category: coding
+  tags:
+  - coding
+  - copilot
+  - editor
+  stars: 5000
+  forks: 0
+  last_updated: '2026-04-06'
+  last_commit: '2026-04-01'
+  added_date: '2026-04-06'
+  status: approved
+  stars_growth_7d: 0
+- repo: TabbyML/tabby
+  name: Tabby
+  description: Self-hosted AI coding assistant — open-source alternative to GitHub
+    Copilot.
+  url: https://github.com/TabbyML/tabby
+  category: coding
+  tags:
+  - coding
+  - copilot
+  - open-source
+  stars: 25000
+  forks: 0
+  last_updated: '2026-04-06'
+  last_commit: '2026-04-01'
+  added_date: '2026-04-06'
+  status: approved
+  stars_growth_7d: 0
