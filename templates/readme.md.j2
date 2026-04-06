@@ -1,0 +1,55 @@
+# Awesome Awesome AI
+
+> A meta-index of AI-related awesome lists and resource aggregation repositories. Auto-updated daily.
+
+[![Daily Update](https://github.com/{{ github_repo }}/actions/workflows/daily-update.yml/badge.svg)](https://github.com/{{ github_repo }}/actions/workflows/daily-update.yml)
+
+*Last updated: {{ last_updated }}*
+
+## Contents
+
+{% for cat_key, cat_name in categories.items() %}
+{% if repos_by_category.get(cat_key) %}
+- [{{ cat_name }}](#{{ cat_key }})
+{% endif %}
+{% endfor %}
+
+---
+
+## Trending This Week
+
+| Repo | Stars | 7d Growth | Tags |
+|------|-------|-----------|------|
+{% for repo in trending %}
+| [{{ repo.name }}]({{ repo.url }}) | {{ "{:,}".format(repo.stars) }} | +{{ repo.stars_growth_7d }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
+{% endfor %}
+
+---
+
+{% for cat_key, cat_name in categories.items() %}
+{% set cat_repos = repos_by_category.get(cat_key, []) %}
+{% if cat_repos %}
+## {{ cat_name }}
+
+| Repo | Description | Stars | Tags |
+|------|-------------|-------|------|
+{% for repo in cat_repos %}
+| [{{ repo.name }}]({{ repo.url }}) | {{ repo.description[:80] }}{% if repo.description|length > 80 %}...{% endif %} | {{ "{:,}".format(repo.stars) }} | {% for tag in repo.tags %}`{{ tag }}` {% endfor %}|
+{% endfor %}
+
+{% endif %}
+{% endfor %}
+
+---
+
+## About
+
+This index is auto-generated and updated daily via GitHub Actions. Data is stored in YAML files under [`data/`](data/).
+
+### Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to suggest new repos.
+
+### License
+
+CC0 1.0 Universal
