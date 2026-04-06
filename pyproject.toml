@@ -1,0 +1,14 @@
+[project]
+name = "awesome-awesome-ai"
+version = "0.1.0"
+description = "Meta-index of AI-related awesome lists on GitHub"
+requires-python = ">=3.11"
+dependencies = [
+    "PyGithub>=2.1.0",
+    "PyYAML>=6.0",
+    "Jinja2>=3.1.0",
+    "requests>=2.31.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
