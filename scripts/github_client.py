@@ -14,13 +14,18 @@ class GitHubClient:
     def _wait_for_rate_limit(self):
         """Sleep until rate limit resets if exhausted."""
         try:
-            rate = self.gh.get_rate_limit()
-            if int(rate.core.remaining) < 10:
-                wait = (rate.core.reset - rate.core.reset.utcnow()).total_seconds() + 5
+            rate_limit = self.gh.get_rate_limit()
+            # PyGithub >= 2.x uses .core, older versions use .rate
+            core = getattr(rate_limit, "core", None) or getattr(rate_limit, "rate", None)
+            if core and core.remaining < 10:
+                from datetime import datetime, timezone
+                reset_time = core.reset.replace(tzinfo=timezone.utc)
+                now = datetime.now(timezone.utc)
+                wait = (reset_time - now).total_seconds() + 5
                 if wait > 0:
                     print(f"Rate limit low, sleeping {wait:.0f}s...")
                     time.sleep(wait)
-        except (TypeError, ValueError):
+        except Exception:
             pass
 
     def get_repo_metadata(self, full_name: str) -> dict:
