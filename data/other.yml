@@ -1,27 +1,47 @@
-- repo: sindresorhus/awesome
-  name: Awesome
-  description: The original awesome list — a curated list of awesome lists.
-  url: https://github.com/sindresorhus/awesome
+- repo: josephmisiti/awesome-machine-learning
+  name: Awesome Machine Learning
+  description: A curated list of awesome Machine Learning frameworks, libraries and
+    software
+  url: https://github.com/josephmisiti/awesome-machine-learning
   category: other
   tags:
-  - curated-list
-  stars: 340000
+  - machine-learning
+  - frameworks
+  - libraries
+  stars: 66000
   forks: 0
   last_updated: '2026-04-06'
   last_commit: '2026-04-01'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-- repo: josephmisiti/awesome-machine-learning
-  name: Awesome Machine Learning
-  description: A curated list of awesome machine learning frameworks, libraries, and
-    software.
-  url: https://github.com/josephmisiti/awesome-machine-learning
+- repo: owainlewis/awesome-artificial-intelligence
+  name: Awesome Artificial Intelligence
+  description: A curated list of AI courses, books, video lectures and papers
+  url: https://github.com/owainlewis/awesome-artificial-intelligence
   category: other
   tags:
-  - machine-learning
-  - deep-learning
-  stars: 66000
+  - ai
+  - courses
+  - books
+  - resources
+  stars: 10000
+  forks: 0
+  last_updated: '2026-04-06'
+  last_commit: '2026-04-01'
+  added_date: '2026-04-06'
+  status: approved
+  stars_growth_7d: 0
+- repo: amusi/awesome-ai-awesomeness
+  name: Awesome AI Awesomeness
+  description: A curated list of awesome AI awesomeness
+  url: https://github.com/amusi/awesome-ai-awesomeness
+  category: other
+  tags:
+  - ai
+  - awesome-list
+  - meta
+  stars: 3500
   forks: 0
   last_updated: '2026-04-06'
   last_commit: '2026-04-01'

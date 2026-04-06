@@ -1,12 +1,13 @@
 - repo: f/awesome-chatgpt-prompts
   name: Awesome ChatGPT Prompts
-  description: A curated list of ChatGPT prompts to get the most out of the model.
+  description: This repo includes ChatGPT prompt curation to use ChatGPT and other
+    LLM tools better
   url: https://github.com/f/awesome-chatgpt-prompts
   category: prompts
   tags:
   - chatgpt
-  - prompt-engineering
-  - openai
+  - prompts
+  - llm
   stars: 120000
   forks: 0
   last_updated: '2026-04-06'
@@ -16,13 +17,13 @@
   stars_growth_7d: 0
 - repo: ai-boost/awesome-prompts
   name: Awesome Prompts
-  description: Curated list of awesome prompts for LLMs including ChatGPT and others.
+  description: Curated list of awesome prompts for large language models
   url: https://github.com/ai-boost/awesome-prompts
   category: prompts
   tags:
-  - prompt-engineering
+  - prompts
   - llm
-  - chatgpt
+  - prompt-engineering
   stars: 5000
   forks: 0
   last_updated: '2026-04-06'
@@ -30,15 +31,16 @@
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-- repo: yokoffing/ChatGPT-Prompts
-  name: ChatGPT Prompts
-  description: High-quality prompts for ChatGPT with tips and tricks.
-  url: https://github.com/yokoffing/ChatGPT-Prompts
+- repo: FonduAI/awesome-prompt-injection
+  name: Awesome Prompt Injection
+  description: A curated list of prompt injection techniques and defenses
+  url: https://github.com/FonduAI/awesome-prompt-injection
   category: prompts
   tags:
-  - chatgpt
-  - prompt-engineering
-  stars: 2000
+  - prompt-injection
+  - security
+  - llm
+  stars: 3000
   forks: 0
   last_updated: '2026-04-06'
   last_commit: '2026-04-01'

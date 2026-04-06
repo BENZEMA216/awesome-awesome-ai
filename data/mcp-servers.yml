@@ -1,12 +1,12 @@
 - repo: punkpeye/awesome-mcp-servers
   name: Awesome MCP Servers
-  description: A curated list of awesome Model Context Protocol (MCP) servers.
+  description: A curated list of awesome Model Context Protocol servers
   url: https://github.com/punkpeye/awesome-mcp-servers
   category: mcp-servers
   tags:
   - mcp
-  - claude
-  - anthropic
+  - model-context-protocol
+  - servers
   stars: 40000
   forks: 0
   last_updated: '2026-04-06'
@@ -14,32 +14,32 @@
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-- repo: modelcontextprotocol/servers
-  name: MCP Servers (Official)
-  description: Official reference implementations of Model Context Protocol servers
-    by Anthropic.
-  url: https://github.com/modelcontextprotocol/servers
+- repo: wong2/awesome-mcp-servers
+  name: Awesome MCP Servers
+  description: A curated list of MCP servers
+  url: https://github.com/wong2/awesome-mcp-servers
   category: mcp-servers
   tags:
   - mcp
-  - claude
-  - anthropic
-  stars: 15000
+  - model-context-protocol
+  - servers
+  stars: 2000
   forks: 0
   last_updated: '2026-04-06'
   last_commit: '2026-04-01'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-- repo: wong2/awesome-mcp-servers
-  name: Awesome MCP Servers (wong2)
-  description: A curated list of Model Context Protocol servers for AI assistants.
-  url: https://github.com/wong2/awesome-mcp-servers
+- repo: appcypher/awesome-mcp-servers
+  name: Awesome MCP Servers
+  description: Curated list of MCP server implementations
+  url: https://github.com/appcypher/awesome-mcp-servers
   category: mcp-servers
   tags:
   - mcp
-  - claude
-  stars: 2000
+  - model-context-protocol
+  - servers
+  stars: 1500
   forks: 0
   last_updated: '2026-04-06'
   last_commit: '2026-04-01'

@@ -1,13 +1,12 @@
 - repo: heejkoo/Awesome-Diffusion-Models
   name: Awesome Diffusion Models
-  description: A collection of resources and papers on diffusion models for image
-    generation.
+  description: A curated list of resources about diffusion models
   url: https://github.com/heejkoo/Awesome-Diffusion-Models
   category: media
   tags:
-  - diffusion
-  - stable-diffusion
-  - text-to-image
+  - diffusion-models
+  - generative-ai
+  - image-generation
   stars: 12000
   forks: 0
   last_updated: '2026-04-06'
@@ -17,13 +16,13 @@
   stars_growth_7d: 0
 - repo: filipecalegario/awesome-generative-ai
   name: Awesome Generative AI
-  description: A curated list of modern generative AI projects and services.
+  description: A curated list of Generative AI tools, works, models, and references
   url: https://github.com/filipecalegario/awesome-generative-ai
   category: media
   tags:
   - generative-ai
-  - text-to-image
-  - chatgpt
+  - llm
+  - image-generation
   stars: 8000
   forks: 0
   last_updated: '2026-04-06'
@@ -32,15 +31,31 @@
   status: approved
   stars_growth_7d: 0
 - repo: steven2358/awesome-generative-ai
-  name: Awesome Generative AI (steven2358)
-  description: A curated list of modern generative AI tools and services.
+  name: Awesome Generative AI
+  description: A curated list of modern Generative AI projects and services
   url: https://github.com/steven2358/awesome-generative-ai
   category: media
   tags:
   - generative-ai
-  - llm
-  - multimodal
+  - projects
+  - services
   stars: 6000
+  forks: 0
+  last_updated: '2026-04-06'
+  last_commit: '2026-04-01'
+  added_date: '2026-04-06'
+  status: approved
+  stars_growth_7d: 0
+- repo: altryne/awesome-ai-art
+  name: Awesome AI Art
+  description: Curated list of AI art tools, guides, and resources
+  url: https://github.com/altryne/awesome-ai-art
+  category: media
+  tags:
+  - ai-art
+  - generative-art
+  - tools
+  stars: 3000
   forks: 0
   last_updated: '2026-04-06'
   last_commit: '2026-04-01'

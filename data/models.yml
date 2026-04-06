@@ -1,12 +1,12 @@
 - repo: Hannibal046/Awesome-LLM
   name: Awesome LLM
-  description: Curated list of large language model papers, frameworks, and resources.
+  description: 'Awesome-LLM: a curated list of Large Language Model resources'
   url: https://github.com/Hannibal046/Awesome-LLM
   category: models
   tags:
   - llm
-  - gpt
-  - transformers
+  - large-language-models
+  - resources
   stars: 20000
   forks: 0
   last_updated: '2026-04-06'
@@ -14,15 +14,31 @@
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-- repo: janhq/awesome-local-ai
-  name: Awesome Local AI
-  description: An awesome repository of local AI tools and resources to run LLMs locally.
-  url: https://github.com/janhq/awesome-local-ai
+- repo: jxzhangjhu/Awesome-LLM-RAG
+  name: Awesome LLM RAG
+  description: 'Awesome LLM RAG: curated list of advanced retrieval-augmented generation'
+  url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
   category: models
   tags:
   - llm
-  - local
+  - rag
+  - retrieval-augmented-generation
+  stars: 5000
+  forks: 0
+  last_updated: '2026-04-06'
+  last_commit: '2026-04-01'
+  added_date: '2026-04-06'
+  status: approved
+  stars_growth_7d: 0
+- repo: KennethanCeworte/awesome-open-source-llm
+  name: Awesome Open Source LLM
+  description: Curated list of open source LLMs
+  url: https://github.com/KennethanCeworte/awesome-open-source-llm
+  category: models
+  tags:
+  - llm
   - open-source
+  - models
   stars: 3000
   forks: 0
   last_updated: '2026-04-06'
