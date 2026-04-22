@@ -7,14 +7,14 @@
   - diffusion-models
   - generative-ai
   - image-generation
-  stars: 12316
+  stars: 12318
   forks: 1015
   last_updated: '2026-04-21'
   last_commit: '2024-08-01'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 12314
+  stars_prev_7d: 12316
 - repo: filipecalegario/awesome-generative-ai
   name: Awesome Generative AI
   description: A curated list of Generative AI tools, works, models, and references
@@ -31,7 +31,7 @@
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 3421
+  stars_prev_7d: 3422
 - repo: steven2358/awesome-generative-ai
   name: Awesome Generative AI
   description: A curated list of modern Generative AI projects and services
@@ -41,14 +41,14 @@
   - generative-ai
   - projects
   - services
-  stars: 11880
-  forks: 1524
-  last_updated: '2026-04-21'
+  stars: 11890
+  forks: 1525
+  last_updated: '2026-04-22'
   last_commit: '2026-04-20'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 11874
+  stars_prev_7d: 11880
 - repo: altryne/awesome-ai-art
   name: Awesome AI Art
   description: Curated list of AI art tools, guides, and resources
