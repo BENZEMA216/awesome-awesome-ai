@@ -24,14 +24,14 @@
   - generative-ai
   - llm
   - image-generation
-  stars: 3457
-  forks: 774
-  last_updated: '2026-05-31'
+  stars: 3460
+  forks: 775
+  last_updated: '2026-06-01'
   last_commit: '2025-12-18'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 3459
+  stars_prev_7d: 3457
 - repo: steven2358/awesome-generative-ai
   name: Awesome Generative AI
   description: A curated list of modern Generative AI projects and services
@@ -41,14 +41,14 @@
   - generative-ai
   - projects
   - services
-  stars: 12088
-  forks: 1675
-  last_updated: '2026-05-31'
+  stars: 12095
+  forks: 1680
+  last_updated: '2026-06-01'
   last_commit: '2026-05-29'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 12085
+  stars_prev_7d: 12088
 - repo: altryne/awesome-ai-art
   name: Awesome AI Art
   description: Curated list of AI art tools, guides, and resources
