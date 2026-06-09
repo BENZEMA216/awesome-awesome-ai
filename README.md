@@ -10,7 +10,7 @@
 
 [![Daily Update](https://github.com/BENZEMA216/awesome-awesome-ai/actions/workflows/daily-update.yml/badge.svg)](https://github.com/BENZEMA216/awesome-awesome-ai/actions/workflows/daily-update.yml)
 
-*Last updated: 2026-06-08*
+*Last updated: 2026-06-09*
 
 ## Contents
 
@@ -32,16 +32,16 @@
 
 | Repo | Author | Stars | Tags |
 |------|--------|-------|------|
-| [**Awesome** ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | [f](https://github.com/f) | 163,448 | `chatgpt` `prompts` `llm` |
-| [**Awesome** MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | [punkpeye](https://github.com/punkpeye) | 88,694 | `mcp` `model-context-protocol` `servers` |
-| [**Awesome** Public Datasets](https://github.com/awesomedata/awesome-public-datasets) | [awesomedata](https://github.com/awesomedata) | 75,883 | `datasets` `open-data` `public` |
-| [**Awesome** Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | [josephmisiti](https://github.com/josephmisiti) | 72,714 | `machine-learning` `frameworks` `libraries` |
-| [**Awesome** AI Agents](https://github.com/e2b-dev/awesome-ai-agents) | [e2b-dev](https://github.com/e2b-dev) | 28,209 | `ai-agents` `autonomous` `llm` |
-| [**Awesome** LLM](https://github.com/Hannibal046/Awesome-LLM) | [Hannibal046](https://github.com/Hannibal046) | 26,909 | `llm` `large-language-models` `resources` |
-| [**Awesome** Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | [owainlewis](https://github.com/owainlewis) | 14,035 | `ai` `courses` `books` `resources` |
+| [**Awesome** ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | [f](https://github.com/f) | 163,458 | `chatgpt` `prompts` `llm` |
+| [**Awesome** MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | [punkpeye](https://github.com/punkpeye) | 88,751 | `mcp` `model-context-protocol` `servers` |
+| [**Awesome** Public Datasets](https://github.com/awesomedata/awesome-public-datasets) | [awesomedata](https://github.com/awesomedata) | 75,901 | `datasets` `open-data` `public` |
+| [**Awesome** Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | [josephmisiti](https://github.com/josephmisiti) | 72,725 | `machine-learning` `frameworks` `libraries` |
+| [**Awesome** AI Agents](https://github.com/e2b-dev/awesome-ai-agents) | [e2b-dev](https://github.com/e2b-dev) | 28,223 | `ai-agents` `autonomous` `llm` |
+| [**Awesome** LLM](https://github.com/Hannibal046/Awesome-LLM) | [Hannibal046](https://github.com/Hannibal046) | 26,917 | `llm` `large-language-models` `resources` |
+| [**Awesome** Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | [owainlewis](https://github.com/owainlewis) | 14,042 | `ai` `courses` `books` `resources` |
 | [**Awesome** Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models) | [heejkoo](https://github.com/heejkoo) | 12,343 | `diffusion-models` `generative-ai` `image-generation` |
 | [**Awesome** Generative AI](https://github.com/steven2358/awesome-generative-ai) | [steven2358](https://github.com/steven2358) | 12,127 | `generative-ai` `projects` `services` |
-| [**Awesome** LangChain](https://github.com/kyrolabs/awesome-langchain) | [kyrolabs](https://github.com/kyrolabs) | 9,392 | `langchain` `llm` `agents` |
+| [**Awesome** LangChain](https://github.com/kyrolabs/awesome-langchain) | [kyrolabs](https://github.com/kyrolabs) | 9,395 | `langchain` `llm` `agents` |
 
 
 
@@ -51,26 +51,26 @@
 
 | Repo | Author | Description | Stars | Tags |
 |------|--------|-------------|-------|------|
-| [**Awesome** ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | [f](https://github.com/f) | This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools be... | 163,448 | `chatgpt` `prompts` `llm` |
-| [**Awesome** Prompts](https://github.com/ai-boost/awesome-prompts) | [ai-boost](https://github.com/ai-boost) | Curated list of awesome prompts for large language models | 8,151 | `prompts` `llm` `prompt-engineering` |
-| [**Awesome** Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection) | [FonduAI](https://github.com/FonduAI) | A curated list of prompt injection techniques and defenses | 521 | `prompt-injection` `security` `llm` |
+| [**Awesome** ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | [f](https://github.com/f) | This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools be... | 163,458 | `chatgpt` `prompts` `llm` |
+| [**Awesome** Prompts](https://github.com/ai-boost/awesome-prompts) | [ai-boost](https://github.com/ai-boost) | Curated list of awesome prompts for large language models | 8,159 | `prompts` `llm` `prompt-engineering` |
+| [**Awesome** Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection) | [FonduAI](https://github.com/FonduAI) | A curated list of prompt injection techniques and defenses | 522 | `prompt-injection` `security` `llm` |
 
 
 ## MCP Servers
 
 | Repo | Author | Description | Stars | Tags |
 |------|--------|-------------|-------|------|
-| [**Awesome** MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | [punkpeye](https://github.com/punkpeye) | A curated list of awesome Model Context Protocol servers | 88,694 | `mcp` `model-context-protocol` `servers` |
-| [**Awesome** MCP Servers](https://github.com/appcypher/awesome-mcp-servers) | [appcypher](https://github.com/appcypher) | Curated list of MCP server implementations | 5,591 | `mcp` `model-context-protocol` `servers` |
-| [**Awesome** MCP Servers](https://github.com/wong2/awesome-mcp-servers) | [wong2](https://github.com/wong2) | A curated list of MCP servers | 4,143 | `mcp` `model-context-protocol` `servers` |
+| [**Awesome** MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | [punkpeye](https://github.com/punkpeye) | A curated list of awesome Model Context Protocol servers | 88,751 | `mcp` `model-context-protocol` `servers` |
+| [**Awesome** MCP Servers](https://github.com/appcypher/awesome-mcp-servers) | [appcypher](https://github.com/appcypher) | Curated list of MCP server implementations | 5,590 | `mcp` `model-context-protocol` `servers` |
+| [**Awesome** MCP Servers](https://github.com/wong2/awesome-mcp-servers) | [wong2](https://github.com/wong2) | A curated list of MCP servers | 4,144 | `mcp` `model-context-protocol` `servers` |
 
 
 ## Agent Frameworks & Lists
 
 | Repo | Author | Description | Stars | Tags |
 |------|--------|-------------|-------|------|
-| [**Awesome** AI Agents](https://github.com/e2b-dev/awesome-ai-agents) | [e2b-dev](https://github.com/e2b-dev) | A list of AI autonomous agents | 28,209 | `ai-agents` `autonomous` `llm` |
-| [**Awesome** LangChain](https://github.com/kyrolabs/awesome-langchain) | [kyrolabs](https://github.com/kyrolabs) | Awesome list of tools and projects with the amazing LangChain framework | 9,392 | `langchain` `llm` `agents` |
+| [**Awesome** AI Agents](https://github.com/e2b-dev/awesome-ai-agents) | [e2b-dev](https://github.com/e2b-dev) | A list of AI autonomous agents | 28,223 | `ai-agents` `autonomous` `llm` |
+| [**Awesome** LangChain](https://github.com/kyrolabs/awesome-langchain) | [kyrolabs](https://github.com/kyrolabs) | Awesome list of tools and projects with the amazing LangChain framework | 9,395 | `langchain` `llm` `agents` |
 | [**Awesome** LLM Agents](https://github.com/kaushikb11/awesome-llm-agents) | [kaushikb11](https://github.com/kaushikb11) | A curated list of awesome LLM agents | 1,507 | `llm` `agents` `ai` |
 | [**Awesome** AI Agents](https://github.com/slavakurilyak/awesome-ai-agents) | [slavakurilyak](https://github.com/slavakurilyak) | Curated list of autonomous AI agents | 1,402 | `ai-agents` `autonomous` `llm` |
 
@@ -79,16 +79,16 @@
 
 | Repo | Author | Description | Stars | Tags |
 |------|--------|-------------|-------|------|
-| [**Awesome** LLM](https://github.com/Hannibal046/Awesome-LLM) | [Hannibal046](https://github.com/Hannibal046) | Awesome-LLM: a curated list of Large Language Model resources | 26,909 | `llm` `large-language-models` `resources` |
+| [**Awesome** LLM](https://github.com/Hannibal046/Awesome-LLM) | [Hannibal046](https://github.com/Hannibal046) | Awesome-LLM: a curated list of Large Language Model resources | 26,917 | `llm` `large-language-models` `resources` |
 | [**Awesome** Open Source LLM](https://github.com/KennethanCeworte/awesome-open-source-llm) | [KennethanCeworte](https://github.com/KennethanCeworte) | Curated list of open source LLMs | 3,000 | `llm` `open-source` `models` |
-| [**Awesome** LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) | [jxzhangjhu](https://github.com/jxzhangjhu) | Awesome LLM RAG: curated list of advanced retrieval-augmented generation | 1,335 | `llm` `rag` `retrieval-augmented-generation` |
+| [**Awesome** LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) | [jxzhangjhu](https://github.com/jxzhangjhu) | Awesome LLM RAG: curated list of advanced retrieval-augmented generation | 1,336 | `llm` `rag` `retrieval-augmented-generation` |
 
 
 ## Dataset Collections
 
 | Repo | Author | Description | Stars | Tags |
 |------|--------|-------------|-------|------|
-| [**Awesome** Public Datasets](https://github.com/awesomedata/awesome-public-datasets) | [awesomedata](https://github.com/awesomedata) | A topic-centric list of HQ open datasets | 75,883 | `datasets` `open-data` `public` |
+| [**Awesome** Public Datasets](https://github.com/awesomedata/awesome-public-datasets) | [awesomedata](https://github.com/awesomedata) | A topic-centric list of HQ open datasets | 75,901 | `datasets` `open-data` `public` |
 
 
 ## Paper Lists
@@ -102,7 +102,7 @@
 
 | Repo | Author | Description | Stars | Tags |
 |------|--------|-------------|-------|------|
-| [**Awesome** Code AI](https://github.com/sourcegraph/awesome-code-ai) | [sourcegraph](https://github.com/sourcegraph) | A list of AI coding tools | 1,668 | `coding` `ai` `developer-tools` |
+| [**Awesome** Code AI](https://github.com/sourcegraph/awesome-code-ai) | [sourcegraph](https://github.com/sourcegraph) | A list of AI coding tools | 1,670 | `coding` `ai` `developer-tools` |
 
 
 ## Image / Audio / Video Generation
@@ -126,8 +126,8 @@
 
 | Repo | Author | Description | Stars | Tags |
 |------|--------|-------------|-------|------|
-| [**Awesome** Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | [josephmisiti](https://github.com/josephmisiti) | A curated list of awesome Machine Learning frameworks, libraries and software | 72,714 | `machine-learning` `frameworks` `libraries` |
-| [**Awesome** Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | [owainlewis](https://github.com/owainlewis) | A curated list of AI courses, books, video lectures and papers | 14,035 | `ai` `courses` `books` `resources` |
+| [**Awesome** Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | [josephmisiti](https://github.com/josephmisiti) | A curated list of awesome Machine Learning frameworks, libraries and software | 72,725 | `machine-learning` `frameworks` `libraries` |
+| [**Awesome** Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | [owainlewis](https://github.com/owainlewis) | A curated list of AI courses, books, video lectures and papers | 14,042 | `ai` `courses` `books` `resources` |
 | [**Awesome** AI Awesomeness](https://github.com/amusi/awesome-ai-awesomeness) | [amusi](https://github.com/amusi) | A curated list of awesome AI awesomeness | 979 | `ai` `awesome-list` `meta` |
 
 
@@ -157,7 +157,7 @@ CC0 1.0 Universal
 
 [![每日更新](https://github.com/BENZEMA216/awesome-awesome-ai/actions/workflows/daily-update.yml/badge.svg)](https://github.com/BENZEMA216/awesome-awesome-ai/actions/workflows/daily-update.yml)
 
-*最近更新: 2026-06-08*
+*最近更新: 2026-06-09*
 
 ## 目录
 
@@ -179,16 +179,16 @@ CC0 1.0 Universal
 
 | 项目 | 作者 | Star 数 | 标签 |
 |------|------|---------|------|
-| [**Awesome** ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | [f](https://github.com/f) | 163,448 | `chatgpt` `prompts` `llm` |
-| [**Awesome** MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | [punkpeye](https://github.com/punkpeye) | 88,694 | `mcp` `model-context-protocol` `servers` |
-| [**Awesome** Public Datasets](https://github.com/awesomedata/awesome-public-datasets) | [awesomedata](https://github.com/awesomedata) | 75,883 | `datasets` `open-data` `public` |
-| [**Awesome** Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | [josephmisiti](https://github.com/josephmisiti) | 72,714 | `machine-learning` `frameworks` `libraries` |
-| [**Awesome** AI Agents](https://github.com/e2b-dev/awesome-ai-agents) | [e2b-dev](https://github.com/e2b-dev) | 28,209 | `ai-agents` `autonomous` `llm` |
-| [**Awesome** LLM](https://github.com/Hannibal046/Awesome-LLM) | [Hannibal046](https://github.com/Hannibal046) | 26,909 | `llm` `large-language-models` `resources` |
-| [**Awesome** Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | [owainlewis](https://github.com/owainlewis) | 14,035 | `ai` `courses` `books` `resources` |
+| [**Awesome** ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | [f](https://github.com/f) | 163,458 | `chatgpt` `prompts` `llm` |
+| [**Awesome** MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | [punkpeye](https://github.com/punkpeye) | 88,751 | `mcp` `model-context-protocol` `servers` |
+| [**Awesome** Public Datasets](https://github.com/awesomedata/awesome-public-datasets) | [awesomedata](https://github.com/awesomedata) | 75,901 | `datasets` `open-data` `public` |
+| [**Awesome** Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | [josephmisiti](https://github.com/josephmisiti) | 72,725 | `machine-learning` `frameworks` `libraries` |
+| [**Awesome** AI Agents](https://github.com/e2b-dev/awesome-ai-agents) | [e2b-dev](https://github.com/e2b-dev) | 28,223 | `ai-agents` `autonomous` `llm` |
+| [**Awesome** LLM](https://github.com/Hannibal046/Awesome-LLM) | [Hannibal046](https://github.com/Hannibal046) | 26,917 | `llm` `large-language-models` `resources` |
+| [**Awesome** Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | [owainlewis](https://github.com/owainlewis) | 14,042 | `ai` `courses` `books` `resources` |
 | [**Awesome** Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models) | [heejkoo](https://github.com/heejkoo) | 12,343 | `diffusion-models` `generative-ai` `image-generation` |
 | [**Awesome** Generative AI](https://github.com/steven2358/awesome-generative-ai) | [steven2358](https://github.com/steven2358) | 12,127 | `generative-ai` `projects` `services` |
-| [**Awesome** LangChain](https://github.com/kyrolabs/awesome-langchain) | [kyrolabs](https://github.com/kyrolabs) | 9,392 | `langchain` `llm` `agents` |
+| [**Awesome** LangChain](https://github.com/kyrolabs/awesome-langchain) | [kyrolabs](https://github.com/kyrolabs) | 9,395 | `langchain` `llm` `agents` |
 
 
 
@@ -198,26 +198,26 @@ CC0 1.0 Universal
 
 | 项目 | 作者 | 简介 | Star 数 | 标签 |
 |------|------|------|---------|------|
-| [**Awesome** ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | [f](https://github.com/f) | This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools be... | 163,448 | `chatgpt` `prompts` `llm` |
-| [**Awesome** Prompts](https://github.com/ai-boost/awesome-prompts) | [ai-boost](https://github.com/ai-boost) | Curated list of awesome prompts for large language models | 8,151 | `prompts` `llm` `prompt-engineering` |
-| [**Awesome** Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection) | [FonduAI](https://github.com/FonduAI) | A curated list of prompt injection techniques and defenses | 521 | `prompt-injection` `security` `llm` |
+| [**Awesome** ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | [f](https://github.com/f) | This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools be... | 163,458 | `chatgpt` `prompts` `llm` |
+| [**Awesome** Prompts](https://github.com/ai-boost/awesome-prompts) | [ai-boost](https://github.com/ai-boost) | Curated list of awesome prompts for large language models | 8,159 | `prompts` `llm` `prompt-engineering` |
+| [**Awesome** Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection) | [FonduAI](https://github.com/FonduAI) | A curated list of prompt injection techniques and defenses | 522 | `prompt-injection` `security` `llm` |
 
 
 ## MCP 服务器
 
 | 项目 | 作者 | 简介 | Star 数 | 标签 |
 |------|------|------|---------|------|
-| [**Awesome** MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | [punkpeye](https://github.com/punkpeye) | A curated list of awesome Model Context Protocol servers | 88,694 | `mcp` `model-context-protocol` `servers` |
-| [**Awesome** MCP Servers](https://github.com/appcypher/awesome-mcp-servers) | [appcypher](https://github.com/appcypher) | Curated list of MCP server implementations | 5,591 | `mcp` `model-context-protocol` `servers` |
-| [**Awesome** MCP Servers](https://github.com/wong2/awesome-mcp-servers) | [wong2](https://github.com/wong2) | A curated list of MCP servers | 4,143 | `mcp` `model-context-protocol` `servers` |
+| [**Awesome** MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | [punkpeye](https://github.com/punkpeye) | A curated list of awesome Model Context Protocol servers | 88,751 | `mcp` `model-context-protocol` `servers` |
+| [**Awesome** MCP Servers](https://github.com/appcypher/awesome-mcp-servers) | [appcypher](https://github.com/appcypher) | Curated list of MCP server implementations | 5,590 | `mcp` `model-context-protocol` `servers` |
+| [**Awesome** MCP Servers](https://github.com/wong2/awesome-mcp-servers) | [wong2](https://github.com/wong2) | A curated list of MCP servers | 4,144 | `mcp` `model-context-protocol` `servers` |
 
 
 ## Agent 框架与列表
 
 | 项目 | 作者 | 简介 | Star 数 | 标签 |
 |------|------|------|---------|------|
-| [**Awesome** AI Agents](https://github.com/e2b-dev/awesome-ai-agents) | [e2b-dev](https://github.com/e2b-dev) | A list of AI autonomous agents | 28,209 | `ai-agents` `autonomous` `llm` |
-| [**Awesome** LangChain](https://github.com/kyrolabs/awesome-langchain) | [kyrolabs](https://github.com/kyrolabs) | Awesome list of tools and projects with the amazing LangChain framework | 9,392 | `langchain` `llm` `agents` |
+| [**Awesome** AI Agents](https://github.com/e2b-dev/awesome-ai-agents) | [e2b-dev](https://github.com/e2b-dev) | A list of AI autonomous agents | 28,223 | `ai-agents` `autonomous` `llm` |
+| [**Awesome** LangChain](https://github.com/kyrolabs/awesome-langchain) | [kyrolabs](https://github.com/kyrolabs) | Awesome list of tools and projects with the amazing LangChain framework | 9,395 | `langchain` `llm` `agents` |
 | [**Awesome** LLM Agents](https://github.com/kaushikb11/awesome-llm-agents) | [kaushikb11](https://github.com/kaushikb11) | A curated list of awesome LLM agents | 1,507 | `llm` `agents` `ai` |
 | [**Awesome** AI Agents](https://github.com/slavakurilyak/awesome-ai-agents) | [slavakurilyak](https://github.com/slavakurilyak) | Curated list of autonomous AI agents | 1,402 | `ai-agents` `autonomous` `llm` |
 
@@ -226,16 +226,16 @@ CC0 1.0 Universal
 
 | 项目 | 作者 | 简介 | Star 数 | 标签 |
 |------|------|------|---------|------|
-| [**Awesome** LLM](https://github.com/Hannibal046/Awesome-LLM) | [Hannibal046](https://github.com/Hannibal046) | Awesome-LLM: a curated list of Large Language Model resources | 26,909 | `llm` `large-language-models` `resources` |
+| [**Awesome** LLM](https://github.com/Hannibal046/Awesome-LLM) | [Hannibal046](https://github.com/Hannibal046) | Awesome-LLM: a curated list of Large Language Model resources | 26,917 | `llm` `large-language-models` `resources` |
 | [**Awesome** Open Source LLM](https://github.com/KennethanCeworte/awesome-open-source-llm) | [KennethanCeworte](https://github.com/KennethanCeworte) | Curated list of open source LLMs | 3,000 | `llm` `open-source` `models` |
-| [**Awesome** LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) | [jxzhangjhu](https://github.com/jxzhangjhu) | Awesome LLM RAG: curated list of advanced retrieval-augmented generation | 1,335 | `llm` `rag` `retrieval-augmented-generation` |
+| [**Awesome** LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) | [jxzhangjhu](https://github.com/jxzhangjhu) | Awesome LLM RAG: curated list of advanced retrieval-augmented generation | 1,336 | `llm` `rag` `retrieval-augmented-generation` |
 
 
 ## 数据集合集
 
 | 项目 | 作者 | 简介 | Star 数 | 标签 |
 |------|------|------|---------|------|
-| [**Awesome** Public Datasets](https://github.com/awesomedata/awesome-public-datasets) | [awesomedata](https://github.com/awesomedata) | A topic-centric list of HQ open datasets | 75,883 | `datasets` `open-data` `public` |
+| [**Awesome** Public Datasets](https://github.com/awesomedata/awesome-public-datasets) | [awesomedata](https://github.com/awesomedata) | A topic-centric list of HQ open datasets | 75,901 | `datasets` `open-data` `public` |
 
 
 ## 论文列表
@@ -249,7 +249,7 @@ CC0 1.0 Universal
 
 | 项目 | 作者 | 简介 | Star 数 | 标签 |
 |------|------|------|---------|------|
-| [**Awesome** Code AI](https://github.com/sourcegraph/awesome-code-ai) | [sourcegraph](https://github.com/sourcegraph) | A list of AI coding tools | 1,668 | `coding` `ai` `developer-tools` |
+| [**Awesome** Code AI](https://github.com/sourcegraph/awesome-code-ai) | [sourcegraph](https://github.com/sourcegraph) | A list of AI coding tools | 1,670 | `coding` `ai` `developer-tools` |
 
 
 ## 图片 / 音频 / 视频生成
@@ -273,8 +273,8 @@ CC0 1.0 Universal
 
 | 项目 | 作者 | 简介 | Star 数 | 标签 |
 |------|------|------|---------|------|
-| [**Awesome** Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | [josephmisiti](https://github.com/josephmisiti) | A curated list of awesome Machine Learning frameworks, libraries and software | 72,714 | `machine-learning` `frameworks` `libraries` |
-| [**Awesome** Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | [owainlewis](https://github.com/owainlewis) | A curated list of AI courses, books, video lectures and papers | 14,035 | `ai` `courses` `books` `resources` |
+| [**Awesome** Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | [josephmisiti](https://github.com/josephmisiti) | A curated list of awesome Machine Learning frameworks, libraries and software | 72,725 | `machine-learning` `frameworks` `libraries` |
+| [**Awesome** Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | [owainlewis](https://github.com/owainlewis) | A curated list of AI courses, books, video lectures and papers | 14,042 | `ai` `courses` `books` `resources` |
 | [**Awesome** AI Awesomeness](https://github.com/amusi/awesome-ai-awesomeness) | [amusi](https://github.com/amusi) | A curated list of awesome AI awesomeness | 979 | `ai` `awesome-list` `meta` |
 
 
