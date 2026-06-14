@@ -8,14 +8,14 @@
   - chatgpt
   - prompts
   - llm
-  stars: 163649
-  forks: 21223
-  last_updated: '2026-06-13'
-  last_commit: '2026-06-13'
+  stars: 163691
+  forks: 21230
+  last_updated: '2026-06-14'
+  last_commit: '2026-06-14'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 163614
+  stars_prev_7d: 163649
 - repo: ai-boost/awesome-prompts
   name: Awesome Prompts
   description: Curated list of awesome prompts for large language models
@@ -25,14 +25,14 @@
   - prompts
   - llm
   - prompt-engineering
-  stars: 8193
-  forks: 765
-  last_updated: '2026-06-13'
-  last_commit: '2026-06-13'
+  stars: 8207
+  forks: 770
+  last_updated: '2026-06-14'
+  last_commit: '2026-06-14'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 8189
+  stars_prev_7d: 8193
 - repo: FonduAI/awesome-prompt-injection
   name: Awesome Prompt Injection
   description: A curated list of prompt injection techniques and defenses
@@ -42,9 +42,9 @@
   - prompt-injection
   - security
   - llm
-  stars: 523
+  stars: 524
   forks: 84
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-13'
   last_commit: '2026-06-02'
   added_date: '2026-04-06'
   status: approved
