@@ -25,8 +25,8 @@
   - llm
   - image-generation
   stars: 3495
-  forks: 807
-  last_updated: '2026-06-25'
+  forks: 808
+  last_updated: '2026-06-28'
   last_commit: '2025-12-18'
   added_date: '2026-04-06'
   status: approved
@@ -41,14 +41,14 @@
   - generative-ai
   - projects
   - services
-  stars: 12199
-  forks: 1780
-  last_updated: '2026-06-27'
-  last_commit: '2026-06-12'
+  stars: 12201
+  forks: 1783
+  last_updated: '2026-06-28'
+  last_commit: '2026-06-28'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 12197
+  stars_prev_7d: 12199
 - repo: altryne/awesome-ai-art
   name: Awesome AI Art
   description: Curated list of AI art tools, guides, and resources
