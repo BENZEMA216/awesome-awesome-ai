@@ -14,7 +14,7 @@
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 12349
+  stars_prev_7d: 12350
 - repo: filipecalegario/awesome-generative-ai
   name: Awesome Generative AI
   description: A curated list of Generative AI tools, works, models, and references
@@ -24,9 +24,9 @@
   - generative-ai
   - llm
   - image-generation
-  stars: 3497
-  forks: 815
-  last_updated: '2026-07-07'
+  stars: 3498
+  forks: 818
+  last_updated: '2026-07-09'
   last_commit: '2025-12-18'
   added_date: '2026-04-06'
   status: approved
@@ -41,14 +41,14 @@
   - generative-ai
   - projects
   - services
-  stars: 12268
-  forks: 1822
-  last_updated: '2026-07-08'
+  stars: 12271
+  forks: 1824
+  last_updated: '2026-07-09'
   last_commit: '2026-06-28'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 12264
+  stars_prev_7d: 12268
 - repo: altryne/awesome-ai-art
   name: Awesome AI Art
   description: Curated list of AI art tools, guides, and resources
