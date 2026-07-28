@@ -7,14 +7,14 @@
   - mcp
   - model-context-protocol
   - servers
-  stars: 91445
-  forks: 13625
-  last_updated: '2026-07-27'
+  stars: 91476
+  forks: 13675
+  last_updated: '2026-07-28'
   last_commit: '2026-07-25'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 91412
+  stars_prev_7d: 91445
 - repo: wong2/awesome-mcp-servers
   name: Awesome MCP Servers
   description: A curated list of MCP servers
@@ -24,14 +24,14 @@
   - mcp
   - model-context-protocol
   - servers
-  stars: 4228
-  forks: 1712
-  last_updated: '2026-07-27'
+  stars: 4231
+  forks: 1715
+  last_updated: '2026-07-28'
   last_commit: '2026-07-13'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 4226
+  stars_prev_7d: 4228
 - repo: appcypher/awesome-mcp-servers
   name: Awesome MCP Servers
   description: Curated list of MCP server implementations
@@ -41,11 +41,11 @@
   - mcp
   - model-context-protocol
   - servers
-  stars: 5717
-  forks: 2083
-  last_updated: '2026-07-27'
+  stars: 5720
+  forks: 2087
+  last_updated: '2026-07-28'
   last_commit: '2026-05-06'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 5716
+  stars_prev_7d: 5717
