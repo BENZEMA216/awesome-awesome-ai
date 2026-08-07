@@ -8,14 +8,14 @@
   - machine-learning
   - frameworks
   - libraries
-  stars: 73907
-  forks: 15595
-  last_updated: '2026-08-06'
-  last_commit: '2026-07-30'
+  stars: 73921
+  forks: 15603
+  last_updated: '2026-08-07'
+  last_commit: '2026-08-06'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 73899
+  stars_prev_7d: 73907
 - repo: owainlewis/awesome-artificial-intelligence
   name: Awesome Artificial Intelligence
   description: A curated list of AI courses, books, video lectures and papers
@@ -26,14 +26,14 @@
   - courses
   - books
   - resources
-  stars: 15678
-  forks: 2466
-  last_updated: '2026-08-06'
+  stars: 15690
+  forks: 2469
+  last_updated: '2026-08-07'
   last_commit: '2026-08-03'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 15666
+  stars_prev_7d: 15678
 - repo: amusi/awesome-ai-awesomeness
   name: Awesome AI Awesomeness
   description: A curated list of awesome AI awesomeness
@@ -50,4 +50,4 @@
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 990
+  stars_prev_7d: 991
