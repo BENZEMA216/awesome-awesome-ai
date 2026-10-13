@@ -7,14 +7,14 @@
   - ai-agents
   - autonomous
   - llm
-  stars: 30396
-  forks: 3607
-  last_updated: '2026-10-12'
+  stars: 30420
+  forks: 3616
+  last_updated: '2026-10-13'
   last_commit: '2026-08-21'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 30371
+  stars_prev_7d: 30396
 - repo: kyrolabs/awesome-langchain
   name: Awesome LangChain
   description: Awesome list of tools and projects with the amazing LangChain framework
@@ -24,14 +24,14 @@
   - langchain
   - llm
   - agents
-  stars: 9563
-  forks: 969
-  last_updated: '2026-10-12'
+  stars: 9562
+  forks: 970
+  last_updated: '2026-10-13'
   last_commit: '2026-10-11'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 9561
+  stars_prev_7d: 9563
 - repo: kaushikb11/awesome-llm-agents
   name: Awesome LLM Agents
   description: A curated list of awesome LLM agents
@@ -41,14 +41,14 @@
   - llm
   - agents
   - ai
-  stars: 1606
+  stars: 1607
   forks: 368
-  last_updated: '2026-10-12'
+  last_updated: '2026-10-13'
   last_commit: '2026-10-11'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 1604
+  stars_prev_7d: 1606
 - repo: slavakurilyak/awesome-ai-agents
   name: Awesome AI Agents
   description: Curated list of autonomous AI agents
@@ -58,11 +58,11 @@
   - ai-agents
   - autonomous
   - llm
-  stars: 2434
-  forks: 628
-  last_updated: '2026-10-12'
+  stars: 2437
+  forks: 631
+  last_updated: '2026-10-13'
   last_commit: '2026-10-04'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 2429
+  stars_prev_7d: 2434
