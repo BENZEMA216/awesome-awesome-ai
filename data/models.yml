@@ -7,9 +7,9 @@
   - llm
   - large-language-models
   - resources
-  stars: 27448
-  forks: 2736
-  last_updated: '2026-10-13'
+  stars: 27446
+  forks: 2737
+  last_updated: '2026-10-14'
   last_commit: '2025-07-31'
   added_date: '2026-04-06'
   status: approved
@@ -24,9 +24,9 @@
   - llm
   - rag
   - retrieval-augmented-generation
-  stars: 1367
+  stars: 1368
   forks: 100
-  last_updated: '2026-10-12'
+  last_updated: '2026-10-14'
   last_commit: '2026-10-05'
   added_date: '2026-04-06'
   status: approved
