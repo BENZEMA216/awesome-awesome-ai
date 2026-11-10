@@ -7,14 +7,14 @@
   - llm
   - large-language-models
   - resources
-  stars: 27491
-  forks: 2773
-  last_updated: '2026-11-09'
+  stars: 27494
+  forks: 2775
+  last_updated: '2026-11-10'
   last_commit: '2025-07-31'
   added_date: '2026-04-06'
   status: approved
   stars_growth_7d: 0
-  stars_prev_7d: 27487
+  stars_prev_7d: 27491
 - repo: jxzhangjhu/Awesome-LLM-RAG
   name: Awesome LLM RAG
   description: 'Awesome LLM RAG: curated list of advanced retrieval-augmented generation'
